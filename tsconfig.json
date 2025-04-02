@@ -1,5 +1,5 @@
 {
-  "compilerOptnions":{
+  "compilerOptions":{
     //ソースマップを有効化
     "sourceMap": true,
     //TSはECMAScript5に変換

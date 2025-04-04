@@ -1,8 +1,8 @@
 {
-	"name": "js-practice",
+	"name": "ts-practice",
 	"version": "1.0.0",
-	"description": "JS-Practice",
-	"main": "js/index.js",
+	"description": "TS-Practice",
+	"main": "js/index.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"lint": "eslint js",
